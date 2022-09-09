@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/..hjkjckjnkdj
-    jdjkfjfuync
-hdkdkld
-     "Programming is like building a multilingual puzzle
+/..
+. main - print the string
+. Next
+. Return: 0
